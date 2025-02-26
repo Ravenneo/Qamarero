@@ -7,7 +7,7 @@ Asegúrate de tener siempre actualizados:
 - **HprtUtility**  
 - **Drivers de la impresora**  
 
-Puedes descargar todo desde: [pcmira.com](https://www.pcmira.com)  
+Puedes descargar todo desde: [HPRT]([https://www.pcmira.com](https://download.hprt.com/Downloads/))  
 
 ---
 
