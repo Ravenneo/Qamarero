@@ -13,6 +13,7 @@ En este repositorio encontrarás:
 - 📜 **[Manual HPRT TP808](./Manual-HPRT-TP808-_Rev.1.5.pdf)** → Documento oficial de referencia.
 - 🖥️ **[HPRT POS Printer Driver v2.7.4.3](./HPRT%20POS%20Printer%20Driver%20v2.7.4.3.zip)** → Driver necesario para la instalación.
 - 🎥 **[Guía visual de instalación WiFi](./hprt-conexion-wifi_6vJQzefo.mp4)** → Video demostrativo del proceso de configuración WiFi.
+-  **[Guía Instalar T808 en SUNMI D3 PRO](https://github.com/Ravenneo/Qamarero/blob/main/Printers/TP808/Instalar_Android_D3_PRO.md)** → Video demostrativo del proceso de configuración WiFi.
 
 ### 🔧 Orden de Instalación:
 1. **Instalar HPRT Utility** ([Descargar aquí](https://download.hprt.com/Downloads/)) (Debe descargarse desde la web oficial de HPRT, ya que es demasiado grande para subirla aquí).
