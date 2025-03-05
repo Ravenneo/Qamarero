@@ -2,7 +2,7 @@
 
 🚧 **Esta guía está en construcción.** 🚧
 
-# Guía de Conexión de Sunmi Cloud para Activadores de CX
+# Guía de Conexión de Sunmi Cloud 
 
 ## Sistemas Operativos Compatibles
 - **iOS**
