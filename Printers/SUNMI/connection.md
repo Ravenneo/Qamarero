@@ -36,5 +36,3 @@
 
 ---
 
-Con esta guía, los activadores de CX podrán conectar las impresoras Sunmi a Qamarero en distintos sistemas operativos de forma eficiente. 🚀
-
