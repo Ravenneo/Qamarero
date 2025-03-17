@@ -115,3 +115,11 @@ Este kit contiene los programas y drivers utilizados en las implementaciones de 
 - **Drivers:** [Descargar](https://drive.google.com/file/d/1gW9_1zo_971q97b3Q9bt7FZ6B7gZdHZB/view?usp=drive_link)
 - **Impresoras ITP:** [Descargar desde Infotronic](https://www.infotronic.es/descarga)
 
+---
+
+## Impresoras CONCORD
+
+### Drivers Disponibles
+
+- **Enlace:** [Descargar Drivers CONCORD](https://download.igt.es/public/?dir=drivers)
+
