@@ -123,7 +123,17 @@ Este kit contiene los programas y drivers utilizados en las implementaciones de 
 
 - **Enlace:** [Descargar Drivers CONCORD](https://download.igt.es/public/?dir=drivers)
 
+---
 
-RP'320 and others RP printers 
-https://ptc.co.ir/dl/
+## Otras Impresoras
+
+### RP'320 y otras RP Printers
+
+- **Enlace:** [Descargar](https://ptc.co.ir/dl/)
+
+### Impresoras Jassway
+
+- **Driver Jassway:** [Descargar](https://drive.google.com/file/d/16ZZGTM9lUkriEn_dAWEjb9gsEj-hcq5w/view?usp=sharing)
+- **Herramienta de prueba WiFi:** [Descargar](https://drive.google.com/file/d/1vJGx8QYbeQOSUb_oUun_Mbi0Dk2-XNVs/view?usp=sharing)
+
 
