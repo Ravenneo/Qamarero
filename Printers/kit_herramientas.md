@@ -44,7 +44,8 @@ Este kit contiene los programas y drivers utilizados en las implementaciones de 
 
 - **Uso recomendado:** Modificar SSID del WiFi y actualizar impresoras.
 - **Enlace:** [Descargar Herramienta SUNMI](https://drive.google.com/file/d/1DotYU_S6c5FYAaqD4R7-evBgHBFJMM5C/view?usp=sharing)
-
+- **Uso recomendado:** Instalar el driver para usar SUNMI con JSPM.
+- **Enlace:** [Descargar Driver SUNMI](https://drive.google.com/file/d/1Jo6hJOuFRS0VLpskKxI-jsnk07NgDrJv/view?usp=sharing)
 ---
 
 ## Impresoras HPRT
