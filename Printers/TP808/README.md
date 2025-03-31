@@ -25,9 +25,25 @@ En este repositorio encontrarás:
 -  **[Guía Instalar T808 en SUNMI D3 PRO](https://github.com/Ravenneo/Qamarero/blob/main/Printers/TP808/Instalar_Android_D3_PRO.md)** → Video demostrativo del proceso de configuración WiFi.
 
 ### 🔧 Orden de Instalación:
-1. **Instalar HPRT Utility** ([Descargar aquí](https://download.hprt.com/Downloads/)) (Debe descargarse desde la web oficial de HPRT, ya que es demasiado grande para subirla aquí).
+1. **Instalar HPRT Utility** ([Descargar aquí](https://drive.google.com/file/d/1G491OdeUZmzqntHzH4JZ0fueDveS3Ggz/view?usp=sharing))
 2. **Instalar HPRT POS Driver**.
 3. **Añadir la impresora a QPos**.
+
+### Guias de Instalacion:
+## Instalacion por WiFi:
+- Conectamos la impresora por usb.
+- Instalamos los drivers.
+- Abrimos HPRT Utility
+- Agregamos la impresora por usb seleccionando el modelo.
+- Configuracion avanzada -> Configuracion de Conmutacion -> WiFi, clicamos en SET.
+- Configuracion avanzada -> Configuracion WiFi.
+- Clicamos en READ y cambiamos el modo a STA.
+- Clicamos en scan, seleccionamos el WiFi del cliente,DHCP Enable y añadimos la contraseña, clicamos en SET.
+- Nos dara una IP libre, clicamos en read para verla (es la que ira en el puerto de Windows)
+- Cambiamos el DHCP a Disable para fijar la ip,grabamos con SET.
+- Agregamos la impresora de nuevo, esta vez por TCP/IP, escribimos la ip obtenida anteriormente.
+- Vamos a la config de impresoras de Windows, cambiamos el puerto de la impresora a la ip que tenemos.
+  
 
 📌 La **[Guía WiFi](./Conectar_WiFi.md)** también contiene el enlace de descarga para la Utility y explica cómo usarla correctamente.
 
