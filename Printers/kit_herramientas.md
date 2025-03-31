@@ -92,6 +92,13 @@ Este kit contiene los programas y drivers utilizados en las implementaciones de 
 - **Enlace:** [Descargar Drivers Epson TM-T70II](https://support.epson.net/setupnavi/?PINF=swlist&OSC=ARD&LG2=ES&MKN=TM-T70II)
 
 ---
+## Impresoras EPSON TM-M30III
+
+EPSON Advanced Printer Driver 6
+
+- Enlace: https://drive.google.com/file/d/13cAEl8LBBa6BCOJuhs5b_GgTYcEK_H3k/view?usp=sharing
+
+---
 
 ## Impresoras Horepos HP260N
 
