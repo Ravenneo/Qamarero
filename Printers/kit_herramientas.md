@@ -55,6 +55,7 @@ Este kit contiene los programas y drivers utilizados en las implementaciones de 
 - **Uso recomendado:** Instalación de drivers para varios modelos, especialmente HPRT.
 - **Enlace:** [Descargar Drivers HPRT](https://drive.google.com/file/d/1umgq_4InrPUBzfkTvEuVu4piwnDZB-ZN/view?usp=sharing)
 - **HPRT Driver Centre:** [Visitar](https://download.hprt.com/Downloads/)
+- **HPRT Tools:** [Descargar](https://drive.google.com/file/d/1G491OdeUZmzqntHzH4JZ0fueDveS3Ggz/view?usp=sharing)
 
 ---
 
