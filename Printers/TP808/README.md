@@ -72,11 +72,11 @@ En caso de que tengamos que instalar dos o mas iguales:
 - Abrimos la app y conectamos a la impresora por bluetooth, normalmente la contraseña es 1234, si no imprimir ticket de configuración.
 - Vamos a “Settings”, en el apartado “Port settings” vamos a Wifi. 
 - La configuración es la siguiente: 
-Wifi Model: STA
-Hotspot name: escaneamos y conectamos la wifi del cliente.
-Enable DHCP: Activado
-Encryption mode: WPA2PSK
-Hotspot password: Contraseña del wifi del cliente.
+  - Wifi Model: STA
+  - Hotspot name: escaneamos y conectamos la wifi del cliente.
+  - Enable DHCP: Activado
+  - Encryption mode: WPA2PSK
+  - Hotspot password: Contraseña del wifi del cliente.
 - Guardamos la configuración en la esquina superior derecha “Save”. Sonara la impresora.
 - Reiniciamos la impresora y volvemos a conectarla por bluetooth.
 -	Volvemos a la configuración del wifi, solo que ahora en IP ADD tendremos una ip fija de nuestra impresora.
