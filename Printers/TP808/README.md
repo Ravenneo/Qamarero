@@ -30,6 +30,16 @@ En este repositorio encontrarás:
 3. **Añadir la impresora a QPos**.
 
 ### Guias de Instalacion:
+## Instalacion por USB:
+- Conectar la impresora por usb.
+- Instalar los drivers.
+- Abrir la config de Windows y comprobar que funciona correctamente.
+En caso de que tengamos que instalar dos o mas iguales:
+- Abrimos HPRT Utility
+- Agregamos las impresoras por wifi.
+- Cambiamos los puertos por los que se conectan, eligiendo COM como opcion.
+- Comprobar que tienen los mismos puertos en la config de Windows.
+
 ## Instalacion por WiFi:
 - Conectamos la impresora por usb.
 - Instalamos los drivers.
@@ -43,9 +53,38 @@ En este repositorio encontrarás:
 - Cambiamos el DHCP a Disable para fijar la ip,grabamos con SET.
 - Agregamos la impresora de nuevo, esta vez por TCP/IP, escribimos la ip obtenida anteriormente.
 - Vamos a la config de impresoras de Windows, cambiamos el puerto de la impresora a la ip que tenemos.
-  
 
 📌 La **[Guía WiFi](./Conectar_WiFi.md)** también contiene el enlace de descarga para la Utility y explica cómo usarla correctamente.
+
+## Instalacion por Ethernet (Impresora conectada al router):
+- Conectar la impresora por usb.
+- Vemos nuestra ip: Abrimos cmd -> ipconfig.
+- Abrir HPRT Utility y añadir la impresora por USB.
+- Advanced settings -> Ethernet Settings.
+- Cambiamos DHCP Setting -> Static IP model
+- Cambiamos la ip address a una ip de la misma red, los tres numeros de la ip debe ser el mismo (EJ: mi ip: 192.168.2.100, ip de la impresora: 192.168.2.105).
+- Guardamos y volvemos al menu principal, pinchamos la impresora y vamos a select port.
+- Cambiamos la conexion a TCP/IP, usando la ip que hemos dado a la impresora.+
+- Probamos la conexion, si es correcta vamos a la config de Windows y cambiamos el puerto de la impresora a la ip que le hemos dado.
+
+## Instalacion por Android:Conectar por Bluetooth configurando solo en Android.
+- Descargamos la app de Pos Utility de Htpr, disponible en su pagina web.
+- Abrimos la app y conectamos a la impresora por bluetooth, normalmente la contraseña es 1234, si no imprimir ticket de configuración.
+- Vamos a “Settings”, en el apartado “Port settings” vamos a Wifi. 
+- La configuración es la siguiente: 
+Wifi Model: STA
+Hotspot name: escaneamos y conectamos la wifi del cliente.
+Enable DHCP: Activado
+Encryption mode: WPA2PSK
+Hotspot password: Contraseña del wifi del cliente.
+- Guardamos la configuración en la esquina superior derecha “Save”. Sonara la impresora.
+- Reiniciamos la impresora y volvemos a conectarla por bluetooth.
+-	Volvemos a la configuración del wifi, solo que ahora en IP ADD tendremos una ip fija de nuestra impresora.
+-	Activamos JSPrintManager, vamos a camarero y añadimos la impresora por red, con la ip que aparece en la configuración.
+- 🎥 **[Guía visual de instalación por android](https://youtu.be/nqBECMQXF9w)**
+
+
+
 
 ### Recursos y documentación:
 - [Página oficial de HPRT T808](https://www.hprt.com/product/thermal-receipt-printer/t800)  
