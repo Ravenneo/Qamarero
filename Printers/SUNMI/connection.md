@@ -33,6 +33,6 @@
 
 ### 5. Conexión en iPads (iOS)
 - En el caso de **iPads**, la única forma de conectar la impresora es mediante la aplicación de **Sunmi Cloud** usando la cuenta de **Sunmi Qamarero**, ya que **JSPrint Manager no es compatible con iOS**.
-
+Link a guia: https://www.notion.so/qamarero/Instalaci-n-de-las-impresoras-e0e8b9cb3e5b4bdbb5a5ca12fd195735#9b5f79b3e0a04f55b871d216d34a2761
 ---
 
