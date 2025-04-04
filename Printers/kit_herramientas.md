@@ -11,6 +11,8 @@ Este kit contiene los programas y drivers utilizados en las implementaciones de 
 
 - **Uso recomendado:** Cuando no se encuentran drivers específicos para el dispositivo.
 - **Enlace:** [Descargar POS80](https://oemdrivers.com/printer-pos-80)
+- En casos extremos, contamos con drivers de todas las plataformas (no probado)
+- **Enlace:** [Descargar Drivers genericos]([https://oemdrivers.com/printer-pos-80](https://drive.google.com/file/d/1vGJpurhvTzqYF2_lFi-xmFVNtRq52iVe/view?usp=sharing))
 
 ---
 
