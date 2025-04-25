@@ -136,6 +136,15 @@ EPSON Advanced Printer Driver 6
 
 ---
 
+## Impresoras GAINSHA
+
+### Drivers Disponibles
+
+- **Enlace:** [Descargar Drivers GAINSHA]([https://download.igt.es/public/?dir=drivers](https://drive.google.com/file/d/1T73Y9HDMkQuAMk89pNM5Qs7QKyqPR4Hb/view?usp=drive_link))
+- **Guia:**  [Descargar Guia]([https://download.igt.es/public/?dir=drivers](https://drive.google.com/file/d/109Be7vYGAStgxGg8xAa9EJW1cfX4wc5g/view?usp=sharing))
+
+---
+
 ## Otras Impresoras
 
 ### RP'320 y otras RP Printers
